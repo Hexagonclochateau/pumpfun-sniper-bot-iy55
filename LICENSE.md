@@ -1,4 +1,4 @@
-# 
+# vip Automation for pump.fun sniper bot | rug-pull-detection & flash-loan-arbitrage is the best pump.fun sniper bot, featuring rug-pull-detection and flash-loan-arbitrage. Fast,
 
 
 
